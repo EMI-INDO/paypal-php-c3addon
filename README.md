@@ -1,2 +1,2 @@
-# paypal-php-c3addon basic version
+# paypal-php-c3addon 
  
